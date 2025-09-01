@@ -20,10 +20,7 @@
 <div align="center"> 
   <a href = "mailto:viniciushsbastos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/bastosvinicius/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![Snake animation](https://github.com/bastosvinicius/bastosvinicius/blob/output/github-contribution-grid-snake.svg)
 </div>
 
----
-
-<div align="center">
-  ![Snake animation](https://raw.githubusercontent.com/bastosvinicius/bastosvinicius/output/github-contribution-grid-snake.svg)
-</div>
