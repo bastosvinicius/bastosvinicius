@@ -18,72 +18,54 @@ Senior DevOps and Infrastructure Specialist with over 15 years of experience in 
 ### 🛠️ Technical Skills
 
 #### ☁️ Cloud Computing
-<p align="center">
-  <img alt="oci" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
-  <img alt="gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
-</p>
+<img align="left" alt="oci" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+<img align="left" alt="aws" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg">
+<img align="left" alt="gcp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg">
 
-- Oracle Cloud Infrastructure (OCI/OKE) - Expert
-- AWS (EKS, Lambda, S3, RDS)
-- Google Cloud (GCP/Firebase)
+- Oracle Cloud Infrastructure (OCI/OKE) - Expert | AWS (EKS, Lambda, S3, RDS) | Google Cloud (GCP/Firebase)
 
 #### 🐳 Virtualization & Containers
-<p align="center">
-  <img alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
-  <img alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
-  <img alt="helm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg">
-</p>
+<img align="left" alt="kubernetes" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg">
+<img align="left" alt="docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
+<img align="left" alt="helm" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg">
 
 - Kubernetes (EKS, RKE, OKE), Docker, Podman, Helm, ContainerD, Buildah
 
 #### 🤖 AI-Assisted Engineering
-<p align="center">
-  <img alt="claude" height="30" width="40" src="https://simpleicons.org/icons/circleci.svg">
-</p>
+<img align="left" alt="claude" height="30" width="40" src="https://simpleicons.org/icons/circleci.svg">
 
 - Claude Code, GSD (Meta-prompting & Context Engineering), Cline, Antigravity, LLM API Integration, Function Calling for DevOps Automation
 
 #### 🏗️ Infrastructure as Code (IaC)
-<p align="center">
-  <img alt="terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
-  <img alt="ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
-  <img alt="aws-cdk" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-</p>
+<img align="left" alt="terraform" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg">
+<img align="left" alt="ansible" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+<img align="left" alt="aws-cdk" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
 
 - Terraform, Ansible, AWS CDK, Chef Automate, Puppet
 
 #### ⚙️ CI/CD & Orchestration
-<p align="center">
-  <img alt="jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
-  <img alt="github-actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img alt="gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
-</p>
+<img align="left" alt="jenkins" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg">
+<img align="left" alt="github-actions" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+<img align="left" alt="gitlab" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
 
 - Jenkins, GitHub Actions, GitLab CI (Expert), Azure DevOps, Apache Airflow, IBM Tivoli (IWS)
 
 #### 📊 Monitoring & Observability
-<p align="center">
-  <img alt="grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
-</p>
+<img align="left" alt="grafana" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg">
 
 - DataDog, Zabbix (Expert), Grafana, Dynatrace, SolarWinds
 
 #### 💻 Programming & Scripting
-<p align="center">
-  <img alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
-  <img alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
-  <img alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
-</p>
+<img align="left" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="left" alt="go" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg">
+<img align="left" alt="rust" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg">
+<img align="left" alt="typescript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg">
 
 - Python (Django/REST), Shell Script (Expert), Go, Rust, Groovy, TypeScript, Perl
 
 #### 🐧 Operating Systems
-<p align="center">
-  <img alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
-</p>
+<img align="left" alt="linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+<img align="left" alt="bash" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg">
 
 - Linux (RHEL, Debian, Fedora), AIX, Solaris, BSD, Windows Server
 
