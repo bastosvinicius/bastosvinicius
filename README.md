@@ -2,7 +2,7 @@
 
 <!-- Header with typing animation -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Salve!+%F0%9F%96%96%F0%9F%8F%BD+Eu+sou+o+Vin%C3%ADcius+Bastos;Senior+DevOps+%7C+Platform+Engineer+%7C+Cloud+Architect" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=true&repeat=true&width=700&height=100&lines=Hey+there!+%F0%9F%96%96%F0%9F%8F%BD+I'm+Vin%C3%ADcius+Bastos;Senior+DevOps+%7C+Platform+Engineer+%7C+Cloud+Architect" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -15,68 +15,90 @@
 
 ---
 
-### 👨‍💻 Sobre mim
+### 👨‍💻 About Me
 
 ```text
 🏢  Senior DevOps @ Thomson Reuters
-📍  Brasil
-⏳  +15 anos de experiência em TI
-🔭  Especialista em migrações Cloud de larga escala (on-prem → OCI/AWS)
-🧠  Entusiasta de AI-Assisted Engineering & Context Engineering
-🐧  Linux desde sempre
+📍  Brazil
+⏳  15+ years of experience in IT
+🔭  Key architect in large-scale Cloud migrations (on-prem → OCI/AWS)
+🧠  AI-Assisted Engineering & Context Engineering enthusiast
+🐧  Linux since forever
 ```
 
-> Arquiteto-chave em migrações Cloud de larga escala, especializado em transicionar datacenters on-premises legados para ambientes Cloud modernos. Expert em orquestração de clusters Kubernetes, pipelines CI/CD e Infrastructure as Code. Altamente capacitado em engenharia assistida por IA e automação avançada para alta disponibilidade, escalabilidade e eficiência operacional.
+> Senior DevOps and Infrastructure Specialist with over 15 years of experience in IT operations, automation, and software development. Key architect in large-scale Cloud migrations, specializing in transitioning legacy on-premises data centers to modern Cloud environments (OCI/AWS). Expert in orchestrating Kubernetes clusters, CI/CD pipelines, and Infrastructure as Code. Highly skilled in AI-assisted engineering and advanced automation to drive high availability, scalability, and operational efficiency.
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Technical Skills
 
 <details open>
 <summary><b>☁️ Cloud Computing</b></summary>
 <br/>
 
-![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud-F80000?style=for-the-badge&logo=oracle&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
+![Oracle Cloud](https://img.shields.io/badge/Oracle_Cloud_(OCI/OKE)-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_(EKS,_Lambda,_S3,_RDS)-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![GCP](https://img.shields.io/badge/Google_Cloud_(GCP/Firebase)-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)
+
+`OCI - Expert`
 
 </details>
 
 <details open>
-<summary><b>🐳 Containers & Orquestração</b></summary>
+<summary><b>🐳 Virtualization & Containers</b></summary>
 <br/>
 
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
 ![Podman](https://img.shields.io/badge/Podman-892CA0?style=for-the-badge&logo=podman&logoColor=white)
+![ContainerD](https://img.shields.io/badge/ContainerD-575757?style=for-the-badge&logo=containerd&logoColor=white)
+
+`Kubernetes (EKS, RKE, OKE)` · `Buildah`
 
 </details>
 
 <details open>
-<summary><b>🏗️ Infrastructure as Code</b></summary>
+<summary><b>🤖 AI-Assisted Engineering</b></summary>
+<br/>
+
+![Claude](https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
+
+`GSD` · `Context Engineering` · `Meta-prompting` · `Cline` · `Antigravity` · `LLM API Integration` · `Function Calling for DevOps Automation`
+
+</details>
+
+<details open>
+<summary><b>🏗️ Infrastructure as Code (IaC)</b></summary>
 <br/>
 
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
+![AWS CDK](https://img.shields.io/badge/AWS_CDK-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
 ![Puppet](https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black)
+
+`Chef Automate`
 
 </details>
 
 <details open>
-<summary><b>⚙️ CI/CD & Automação</b></summary>
+<summary><b>⚙️ CI/CD & Orchestration</b></summary>
 <br/>
 
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
+![Apache Airflow](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+
+`GitLab CI - Expert` · `IBM Tivoli (IWS)`
 
 </details>
 
 <details open>
-<summary><b>📊 Observabilidade</b></summary>
+<summary><b>📊 Monitoring & Observability</b></summary>
 <br/>
 
 ![Datadog](https://img.shields.io/badge/Datadog-632CA6?style=for-the-badge&logo=datadog&logoColor=white)
@@ -84,10 +106,12 @@
 ![Dynatrace](https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white)
 ![Zabbix](https://img.shields.io/badge/Zabbix-D40000?style=for-the-badge&logo=zabbix&logoColor=white)
 
+`Zabbix - Expert` · `SolarWinds`
+
 </details>
 
 <details open>
-<summary><b>💻 Linguagens & Scripting</b></summary>
+<summary><b>💻 Programming & Scripting</b></summary>
 <br/>
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -96,29 +120,23 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Shell Script](https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Groovy](https://img.shields.io/badge/Groovy-4298B8?style=for-the-badge&logo=apachegroovy&logoColor=white)
+![Perl](https://img.shields.io/badge/Perl-39457E?style=for-the-badge&logo=perl&logoColor=white)
+
+`Shell Script - Expert` · `Python (Django/REST)`
 
 </details>
 
 <details open>
-<summary><b>🤖 AI-Assisted Engineering</b></summary>
-<br/>
-
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
-![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white)
-
-`GSD` · `Context Engineering` · `Meta-prompting` · `LLM API Integration` · `Function Calling`
-
-</details>
-
-<details open>
-<summary><b>🐧 Sistemas Operacionais</b></summary>
+<summary><b>🐧 Operating Systems</b></summary>
 <br/>
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+`AIX` · `Solaris` · `BSD`
 
 </details>
 
@@ -146,14 +164,8 @@
 <div align="center">
 
 <a href="https://github.com/ViniciusBastosTR">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=ViniciusBastosTR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&custom_title=Thomson%20Reuters%20Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBastosTR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&custom_title=Thomson%20Reuters%20Stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBastosTR&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBastosTR&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-  </picture>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBastosTR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&custom_title=Thomson%20Reuters%20Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBastosTR&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
 </a>
 
 </div>
