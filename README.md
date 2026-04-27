@@ -5,13 +5,17 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastosvinicius&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosvinicius&layout=compact&langs_count=7&theme=dracula"/>
   </a>
+  <a href="https://github.com/ViniciusBastosTR">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBastosTR&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBastosTR&layout=compact&langs_count=7&theme=dracula"/>
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 Sobre mim
 
-Senior DevOps and Infrastructure Specialist with over 15 years of experience in IT operations, automation, and software development. Key architect in large-scale Cloud migrations, specializing in transitioning legacy on-premises data centers to modern Cloud environments (OCI/AWS). Expert in orchestrating Kubernetes clusters, CI/CD pipelines, and Infrastructure as Code. Highly skilled in AI-assisted engineering and advanced automation to drive high availability, scalability, and operational efficiency.
+Senior DevOps at Thomson Reuters with over 15 years of experience in IT operations, automation, and software development. Key architect in large-scale Cloud migrations, specializing in transitioning legacy on-premises data centers to modern Cloud environments (OCI/AWS). Expert in orchestrating Kubernetes clusters, CI/CD pipelines, and Infrastructure as Code. Highly skilled in AI-assisted engineering and advanced automation to drive high availability, scalability, and operational efficiency.
 
 ---
 
