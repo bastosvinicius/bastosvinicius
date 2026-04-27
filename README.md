@@ -142,25 +142,6 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<div align="center">
-
-<a href="https://github.com/bastosvinicius">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=bastosvinicius&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bastosvinicius&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-</a>
-
-<br/>
-
-<a href="https://github.com/bastosvinicius">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bastosvinicius&theme=github-dark-blue&hide_border=false&border=30363d&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 <picture>
