@@ -159,23 +159,15 @@
 
 </div>
 
-<br/>
-
-<div align="center">
-
-<a href="https://github.com/ViniciusBastosTR">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ViniciusBastosTR&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=30363d&ring_color=58a6ff&title_color=58a6ff&icon_color=58a6ff&custom_title=Thomson%20Reuters%20Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ViniciusBastosTR&layout=compact&langs_count=8&theme=github_dark&border_color=30363d&title_color=58a6ff"/>
-</a>
-
-</div>
-
 ---
 
 <div align="center">
 
-<img src="https://github.com/bastosvinicius/bastosvinicius/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="Snake animation dark"/>
-<img src="https://github.com/bastosvinicius/bastosvinicius/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="Snake animation light"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/bastosvinicius/bastosvinicius/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/bastosvinicius/bastosvinicius/output/github-contribution-grid-snake.svg"/>
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/bastosvinicius/bastosvinicius/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 <br/><br/>
 
